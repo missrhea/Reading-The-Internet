@@ -2,4 +2,6 @@ Last year, I created a list of articles that I had put very little thought into 
 
 So, surprise surprise it is the middle of 2023 now and I have a bunch of bookmarks piled up. This is going to be a running list of articles and pieces from around the internet that I bookmarked. Depending on how interested I was when I revisited the bookmarks I simply unsaved it or ended up reading it. And these are the pieces I ended up reading and found interesting.
 
-1. <a href="https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media">Your attention didn’t collapse. It was stolen</a>
+1. <a href="https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media">Your attention didn’t collapse. It was stolen</a>.
+
+2. <a href="https://psyche.co/ideas/a-life-of-splendid-uselessness-is-a-life-well-lived">A life of splendid uselessness is a life well lived</a>.
